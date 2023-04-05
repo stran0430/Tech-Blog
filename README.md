@@ -58,7 +58,7 @@ The user can then log out to terminate their session, or a timeout is available.
 
 
 ### Deployment URL
-
+[Tech-Blog App](https://newtechblog.herokuapp.com/)
 
 ### Repo URL
 https://github.com/stran0430/tech-blog
